@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KiemTraCore
+{
+    public class SanPham
+    {
+        public string MaSanPham {  get; set; }
+        public string Name { get; set; }
+        public int Gia { get; set; }
+
+
+    }
+}
